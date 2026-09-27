@@ -49,5 +49,8 @@ Prices in CAD
 | PCB | Comes with 5 | | 1 | 2.1 | 2.1 |
 | | | | | Sub Total: | 22.73 |
 
+PCB Quote\
+<img width="359" height="121" alt="image" src="https://github.com/user-attachments/assets/9a5c7661-a7e5-47cc-b566-7238e5facf0e" />
+
 This project was made possible through the funding of Hackclub and Forge.\
 More information on the build and design process can be found in my [Forge Project](https://forge.hackclub.com/projects/2720)
