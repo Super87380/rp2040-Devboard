@@ -22,8 +22,8 @@ I recommend getting a stencil with your PCB's so that it's easier to apply the t
 **How to Flash**
 Flashing the MCU is super simple, simply hold down the boot button and plug the board into your computer. It then shows up as a USB drive in file explorer in which you can then drag in your firmware of choice.
 
-**BOM**
-Prices in canadian
+**BOM**\
+Prices in CAD
 
 | Part | Notes | Link | Quantity | Price Per Unit | Total |
 | --- | --- | --- | --- | --- | --- |
