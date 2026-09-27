@@ -2,7 +2,7 @@
 
 This custom RP2040 Devboard features a built in 6 axis IMU, onboard LED, and 26 accessible GPIO Pins in a smaller package than a normal raspberry pi pico.
 
-**Why did I make this?**
+**Why did I make this?**\
 I created this project to improve my PCB design skills, learn more about designing circuits around an MCU, and how to use an IMU. These skills I learnt will help me with my short term goal of making a device similar to a google home, and my long term goal of creating a thrust vector controlled rocket.
 
 
