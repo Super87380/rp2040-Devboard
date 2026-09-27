@@ -48,4 +48,5 @@ Flashing the MCU is super simple, simply hold down the boot button and plug the 
 | PCB | Comes with 5 | | 1 | 2.1 | 2.1 |
 | | | | | Sub Total: | 22.73 |
 
-This project was made possible through the funding of Hackclub and Forge.
+This project was made possible through the funding of Hackclub and Forge.\
+More information on the build and design process can be found in my [Forge Project](https://forge.hackclub.com/projects/2720)
