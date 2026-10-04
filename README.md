@@ -7,7 +7,7 @@ I created this project to improve my PCB design skills, learn more about designi
 
 
 **What makes this devboard unique?**
-- Built-in IMU which is not something ive even seen
+- Built-in IMU which is not something ive seen
 - It has a onboard LED that can be programmed to do anything you want (if that incudes turning on or off)
 - Pretty compact package, I mean it is smaller than an official raspberry pi pico and has a built-in IMU
 
