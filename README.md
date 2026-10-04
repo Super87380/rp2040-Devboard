@@ -19,8 +19,8 @@ I created this project to improve my PCB design skills, learn more about designi
 Assembling this PCB is pretty straightforward if you have experience soldering SMD components. Or you can just order it assembled through JLCPCBA or other similar services.
 I recommend getting a stencil with your PCB's so that it's easier to apply the thermal paste. It's also very helpful to have a hotplate or soldering oven but it is possible to solder the components with just a soldering iron or a hot air gun.
 
-**How to Flash**
-Flashing the MCU is super simple, simply hold down the boot button and plug the board into your computer. It then shows up as a USB drive in file explorer in which you can then drag in your firmware of choice.
+**How to Flash**\
+Flashing the MCU is super simple, simply hold down the boot button and plug the board into your computer. It then shows up as a USB drive in file explorer in which you can then drag in your firmware of choice like the simple onboard LED blinking provided.
 
 **BOM**\
 Prices in CAD
