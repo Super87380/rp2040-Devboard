@@ -15,7 +15,7 @@ I created this project to improve my PCB design skills, learn more about designi
 <img width="423" height="946" alt="image" src="https://github.com/user-attachments/assets/8e23aeb8-efaa-45b7-bdac-1ae3d65ea4ed" />
 <img width="1261" height="853" alt="image" src="https://github.com/user-attachments/assets/5aa40211-473a-48e5-9c8a-61ac945af4e3" />
 
-**How to assemble**
+**How to assemble**\
 Assembling this PCB is pretty straightforward if you have experience soldering SMD components. Or you can just order it assembled through JLCPCBA or other similar services.
 I recommend getting a stencil with your PCB's so that it's easier to apply the thermal paste. It's also very helpful to have a hotplate or soldering oven but it is possible to solder the components with just a soldering iron or a hot air gun.
 
