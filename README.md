@@ -38,7 +38,7 @@ Prices in CAD
 | GRT155R61E105KE01D | 1uf 0402 Capacitor | https://www.digikey.ca/short/b3qwttt7 | 2 | 0.19 | 0.38 |
 | CL10A106MA8NRNC | 10uf 0603 Capacitor | https://www.digikey.ca/short/28rz0qvv | 2 | 0.47 | 0.94 |
 | C0402C120J5GACTU | 12pf 0402 Capacitor | https://www.digikey.ca/short/4mzbf5rd | 2 | 0.19 | 0.38 |
-| RC0402JR-075K1L | 5.1k 0402 Resistor | https://www.digikey.ca/short/2ww07hnm | 2 | 0.16 | 0.32 |
+| RC0402FR-075K1L | 5.1k 0402 Resistor | https://www.digikey.ca/short/nb9mvd3m | 2 | 0.16 | 0.32 |
 | RC0402JR-1310KL | 10k 0402 Resistor | https://www.digikey.ca/short/npzj902q | 1 | 0.16 | 0.16 |
 | RC0402JR-074K7P | 4.7k 0402 Resistor | https://www.digikey.ca/short/83b82rmh | 2 | 0.16 | 0.32 |
 | RC0402JR-071KP | 1k 0402 Resistor | https://www.digikey.ca/short/cvvqjf70 | 2 | 0.16 | 0.32 |
