@@ -24,6 +24,7 @@ Flashing the MCU is super simple, simply hold down the boot button and plug the 
 
 **BOM**\
 Prices in USD
+Hyperlink doesn't work, must copy and paste link into search bar.
 
 | Part | Notes | Link | Quantity | Price Per Unit | Total |
 | --- | --- | --- | --- | --- | --- |
