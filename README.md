@@ -48,10 +48,10 @@ Hyperlink doesn't work, must copy and paste link into search bar.
 | CSL1104WBDW1 | 0603 White LED | https://www.lcsc.com/product-detail/C5603527.html | 1 | 0.311 | 0.31 |
 | HX TS253015A2P 160gf | Boot Button, only need 1 (minimum 5) | https://www.lcsc.com/product-detail/C25168826.html | 5 | 0.1006 | 0.50 |
 | PCB | Comes with 5 | | 1 | 2.1 | 2.10 |
-| Solder Paste | Solder paste for soldering SMD components | https://www.amazon.ca/Chip-Quik-Smooth-Solder-Syringe/dp/B096BM9P32/ref=asc_df_B096BM9P32?mcid=c79d80be5a29307085398a6d21f548b6&tag=googleshopc0c-20&linkCode=df0&hvadid=716065606995&hvpos=&hvnetw=g&hvrand=17454086773741653853&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9208226&hvtargid=pla-1598852308533&psc=1&hvocijid=17454086773741653853-B096BM9P32-&hvexpln=0&gad_source=1 | 1 | 6.64 | 6.64 |
-| | | | | Sub Total: | 17.69 |
+| Solder Paste | Solder paste for soldering SMD components | https://www.amazon.ca/Chip-Quik-Smooth-Solder-Syringe/dp/B096BM9P32/ref=asc_df_B096BM9P32?mcid=c79d80be5a29307085398a6d21f548b6&tag=googleshopc0c-20&linkCode=df0&hvadid=716065606995&hvpos=&hvnetw=g&hvrand=17454086773741653853&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9208226&hvtargid=pla-1598852308533&psc=1&hvocijid=17454086773741653853-B096BM9P32-&hvexpln=0&gad_source=1 | 1 | 9.64 | 9.64 |
+| | | | | Sub Total: | 27.33 |
 | | | | | Shipping: | 8.68 |
-| | | | | Total: | 26.37 |
+| | | | | Total: | 36.01 |
 
 PCB Quote\
 <img width="359" height="121" alt="image" src="https://github.com/user-attachments/assets/9a5c7661-a7e5-47cc-b566-7238e5facf0e" />
